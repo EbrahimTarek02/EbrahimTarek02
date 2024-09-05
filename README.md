@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Tarek</h1>
 
-- 🎓 **Student at Ain Shams University**
+- 🎓 **Graduate From Ain Shams University**
 
-- 📱 **Mobile Developer**
+- 📱 **Flutter Developer**
 
 - 📫 How to reach me  **ebrahimtarek2002@gmail.com**
 
